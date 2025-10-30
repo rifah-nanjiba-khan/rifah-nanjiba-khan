@@ -4,7 +4,7 @@
 - 🌱 Core insterests: Data analysis, Data storytelling, Business Intelligence, Machine learning and Research methodologies.
 
 ## Publications
-[Joyee — A PCOS Chatbot]([url](https://link.springer.com/chapter/10.1007/978-3-031-93236-6_13))
+[Joyee — A PCOS Chatbot](https://link.springer.com/chapter/10.1007/978-3-031-93236-6_13)
 
 ## Skills
 
